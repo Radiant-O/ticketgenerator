@@ -6,7 +6,7 @@ from datetime import datetime
 def get_ticketmaster_events():
     # API endpoint and parameters
     base_url = "https://app.ticketmaster.com/discovery/v2/events.json"
-    api_key = "o54GFCryCbhRkAlv0vc6qEFcK7HEDTCJ"
+    api_key = "XXXXXFCryCbhRkAlv0vc6qEXXXXXXXXXXX"
     
     # Query parameters
     params = {
